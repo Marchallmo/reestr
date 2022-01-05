@@ -12,3 +12,17 @@ C:\Users\Admin\Desktop\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.
 C:\Users\Admin\Desktop\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
 C:\Users\Admin\Desktop\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\фффффффф\Documents\GitHub\reestr\Реестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

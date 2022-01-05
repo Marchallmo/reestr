@@ -46,7 +46,7 @@ namespace WindowsFormsApp1
             button5.FlatStyle = FlatStyle.Flat;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) //Открыть карту
         {
             //Form ifd = new Form2();
             //ifd.Show();
@@ -58,6 +58,11 @@ namespace WindowsFormsApp1
             //Form ifrm = new Form3();
             //ifrm.Show();
             //this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
