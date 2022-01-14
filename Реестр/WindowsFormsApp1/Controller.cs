@@ -8,7 +8,7 @@ namespace WindowsFormsApp1
 {
     class Controller
     {
-        //Model1
+        //Table
         public static void AddCard()
         {
 
@@ -34,7 +34,7 @@ namespace WindowsFormsApp1
 
         }
 
-        //Model2
+        //Card
         public static void UploadFile()
         {
 
@@ -55,13 +55,13 @@ namespace WindowsFormsApp1
 
         }
 
-        //Model3
+        //Search
         public static void SearchEntries()
         {
 
         }
 
-        //Model5
+        //Notifications
         public static void OpenFullNotification()
         {
 

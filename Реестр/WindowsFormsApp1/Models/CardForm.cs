@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    class Model2
+    class CardForm
     {
         public static void UploadFile()
         {

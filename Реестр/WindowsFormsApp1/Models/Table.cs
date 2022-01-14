@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    class Model1
+    class Table
     {
+        
         public static void AddCard()
         {
 

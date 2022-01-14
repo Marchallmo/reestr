@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    class Model5
+    class Notifications
     {
         public static void OpenFullNotification()
         {

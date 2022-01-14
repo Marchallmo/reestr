@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    class Model3
+    class Search
     {
         public static void SearchEntries()
         {
